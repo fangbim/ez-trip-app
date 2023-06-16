@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "321546496660",
+    "project_id": "trip-planner-4218f",
+    "storage_bucket": "trip-planner-4218f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321546496660:android:21c2dc21dda9ba2c0c6281",
+        "android_client_info": {
+          "package_name": "com.example.ez_trip_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321546496660-1dcm6v03563sv5vit6eued189nrq8mf2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ez_trip_app",
+            "certificate_hash": "7d14f4fb60aecad0a3e1df857f28db5b05a779ad"
+          }
+        },
+        {
+          "client_id": "321546496660-7kjtgv97v6n2ahf6nuesrseo15m0bc0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7olkFd76mcFyoT5BJDeKXxX6QcaENYKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321546496660-7kjtgv97v6n2ahf6nuesrseo15m0bc0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
